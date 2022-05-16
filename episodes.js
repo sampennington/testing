@@ -6,7 +6,7 @@
 function getOneEpisode() {
   return {
     id: 4952,
-    url:
+    url:   
       "http://www.tvmaze.com/episodes/4952/game-of-thrones-1x01-winter-is-coming",
     name: "Winter is Coming",
     season: 1,
